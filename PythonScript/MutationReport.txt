@@ -1,0 +1,41 @@
+Project Name ; ab
+Project Location ; /Users/APARNA/Documents/workspace/ab
+Report Location ; /Users/APARNA/Documents/workspace/ab/report
+Mutants Location ; /Users/APARNA/Documents/workspace/ab/mutants
+Mutated Projects Location ; /Users/APARNA/Documents/workspace/ab/MutatedProjects
+
+-------------------------------------------------------------------------------
+Checking and deleting exiting files
+Deleting: /Users/APARNA/Documents/workspace/ab/ab_copy
+Deleting: /Users/APARNA/Documents/workspace/ab/report
+Deleting: /Users/APARNA/Documents/workspace/ab/mutants
+Deleting: /Users/APARNA/Documents/workspace/ab/MutatedProjects
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+ Got Files List
+-------------------------------------------------------------------------------
+Parsing File: .DS_Store
+*********Generating mutants for file /Users/APARNA/Documents/workspace/ab/src/main/java/.DS_Store**********
+Mutant File Location: /Users/APARNA/Documents/workspace/ab/mutants/.DS_Store_mutants.txt
+Mutants Size: 0
+Total Mutants: 0
+-------------------------------------------------------------------------------
+Parsing File: .DS_Store
+*********Generating mutants for file /Users/APARNA/Documents/workspace/ab/src/main/java/ab/.DS_Store**********
+Mutant File Location: /Users/APARNA/Documents/workspace/ab/mutants/.DS_Store_mutants.txt
+Mutants Size: 0
+Total Mutants: 0
+-------------------------------------------------------------------------------
+Parsing File: add.java
+*********Generating mutants for file /Users/APARNA/Documents/workspace/ab/src/main/java/ab/ab/add.java**********
+Mutant File Location: /Users/APARNA/Documents/workspace/ab/mutants/add.java_mutants.txt
+Mutants Size: 21
+Total Mutants: 21
+-------------------------------------------------------------------------------
+Parsing File: App.java
+*********Generating mutants for file /Users/APARNA/Documents/workspace/ab/src/main/java/ab/ab/App.java**********
+Mutant File Location: /Users/APARNA/Documents/workspace/ab/mutants/App.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 21
+-------------------------------------------------------------------------------

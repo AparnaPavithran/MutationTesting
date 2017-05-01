@@ -1,0 +1,292 @@
+Project Name ; commons-dbutils-trunk
+Project Location ; /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk
+Report Location ; /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/report
+Mutants Location ; /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants
+Mutated Projects Location ; /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/MutatedProjects
+
+-------------------------------------------------------------------------------
+Checking and deleting exiting files
+Deleting: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/commons-dbutils-trunk_copy
+Deleting: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/report
+Deleting: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+ Got Files List
+-------------------------------------------------------------------------------
+Parsing File: AbstractQueryRunner.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/AbstractQueryRunner.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/AbstractQueryRunner.java_mutants.txt
+Mutants Size: 15
+Total Mutants: 15
+-------------------------------------------------------------------------------
+Parsing File: AsyncQueryRunner.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/AsyncQueryRunner.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/AsyncQueryRunner.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 15
+-------------------------------------------------------------------------------
+Parsing File: BaseResultSetHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/BaseResultSetHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BaseResultSetHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 15
+-------------------------------------------------------------------------------
+Parsing File: BasicRowProcessor.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/BasicRowProcessor.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BasicRowProcessor.java_mutants.txt
+Mutants Size: 4
+Total Mutants: 19
+-------------------------------------------------------------------------------
+Parsing File: BeanProcessor.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/BeanProcessor.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BeanProcessor.java_mutants.txt
+Mutants Size: 17
+Total Mutants: 36
+-------------------------------------------------------------------------------
+Parsing File: ColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/ColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ColumnHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 36
+-------------------------------------------------------------------------------
+Parsing File: DbUtils.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/DbUtils.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/DbUtils.java_mutants.txt
+Mutants Size: 4
+Total Mutants: 40
+-------------------------------------------------------------------------------
+Parsing File: GenerousBeanProcessor.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/GenerousBeanProcessor.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/GenerousBeanProcessor.java_mutants.txt
+Mutants Size: 5
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: AbstractKeyedHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/AbstractKeyedHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/AbstractKeyedHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: AbstractListHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/AbstractListHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/AbstractListHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: ArrayHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/ArrayHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ArrayHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: ArrayListHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/ArrayListHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ArrayListHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: BeanHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/BeanHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BeanHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: BeanListHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/BeanListHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BeanListHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: BeanMapHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/BeanMapHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BeanMapHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: ColumnListHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/ColumnListHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ColumnListHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 45
+-------------------------------------------------------------------------------
+Parsing File: BooleanColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/BooleanColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/BooleanColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 46
+-------------------------------------------------------------------------------
+Parsing File: ByteColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/ByteColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ByteColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 47
+-------------------------------------------------------------------------------
+Parsing File: DoubleColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/DoubleColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/DoubleColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 48
+-------------------------------------------------------------------------------
+Parsing File: FloatColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/FloatColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/FloatColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 49
+-------------------------------------------------------------------------------
+Parsing File: IntegerColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/IntegerColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/IntegerColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 50
+-------------------------------------------------------------------------------
+Parsing File: LongColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/LongColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/LongColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 51
+-------------------------------------------------------------------------------
+Parsing File: ShortColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/ShortColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ShortColumnHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: SQLXMLColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/SQLXMLColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/SQLXMLColumnHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: StringColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/StringColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/StringColumnHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: TimestampColumnHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/columns/TimestampColumnHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/TimestampColumnHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: KeyedHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/KeyedHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/KeyedHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: MapHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/MapHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/MapHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: MapListHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/MapListHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/MapListHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: package-info.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/package-info.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/package-info.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: DatePropertyHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/properties/DatePropertyHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/DatePropertyHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 52
+-------------------------------------------------------------------------------
+Parsing File: StringEnumPropertyHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/properties/StringEnumPropertyHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/StringEnumPropertyHandler.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: ScalarHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/handlers/ScalarHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ScalarHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: OutParameter.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/OutParameter.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/OutParameter.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: package-info.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/package-info.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/package-info.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: PropertyHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/PropertyHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/PropertyHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: ProxyFactory.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/ProxyFactory.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ProxyFactory.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: QueryLoader.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/QueryLoader.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/QueryLoader.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 53
+-------------------------------------------------------------------------------
+Parsing File: QueryRunner.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/QueryRunner.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/QueryRunner.java_mutants.txt
+Mutants Size: 6
+Total Mutants: 59
+-------------------------------------------------------------------------------
+Parsing File: ResultSetHandler.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/ResultSetHandler.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ResultSetHandler.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 59
+-------------------------------------------------------------------------------
+Parsing File: ResultSetIterator.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/ResultSetIterator.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/ResultSetIterator.java_mutants.txt
+Mutants Size: 2
+Total Mutants: 61
+-------------------------------------------------------------------------------
+Parsing File: RowProcessor.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/RowProcessor.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/RowProcessor.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 61
+-------------------------------------------------------------------------------
+Parsing File: StatementConfiguration.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/StatementConfiguration.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/StatementConfiguration.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 61
+-------------------------------------------------------------------------------
+Parsing File: package-info.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/wrappers/package-info.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/package-info.java_mutants.txt
+Mutants Size: 0
+Total Mutants: 61
+-------------------------------------------------------------------------------
+Parsing File: SqlNullCheckedResultSet.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/wrappers/SqlNullCheckedResultSet.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/SqlNullCheckedResultSet.java_mutants.txt
+Mutants Size: 1
+Total Mutants: 62
+-------------------------------------------------------------------------------
+Parsing File: StringTrimmedResultSet.java
+*********Generating mutants for file /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/src/main/java/org/apache/commons/dbutils/wrappers/StringTrimmedResultSet.java**********
+Mutant File Location: /Users/APARNA/Desktop/UTD_Text/Software Testing/TestingCompetition/With-Tool/commons-dbutils-trunk/mutants/StringTrimmedResultSet.java_mutants.txt
+Mutants Size: 2
+Total Mutants: 64
+-------------------------------------------------------------------------------
