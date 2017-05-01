@@ -1,0 +1,8 @@
+Platform : Windows, Mac OS
+Python 2.7.11
+
+How to run the Project
+Download the entire folder of the project -> Optional
+Run the python script MutationTesting.py -> inside the folder PythonScript
+Select a github project or any project in your system. Click save
+Mutation Score is displayed along with Killed Mutants and Live mutants.
